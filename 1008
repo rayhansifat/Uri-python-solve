@@ -1,0 +1,7 @@
+A = int(input())
+B = int(input())
+C = float(input())
+
+print("NUMBER =",A)
+result = B * C
+print("SALARY = U$ %0.2f"%result)
