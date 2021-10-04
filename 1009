@@ -1,5 +1,5 @@
 A = input()
 B = float(input())
 C = float(input())
-total = B + (C*15)/100
+result = B + (C*15)/100
 print("TOTAL = R$ %0.2f"%result)
